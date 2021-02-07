@@ -1,4 +1,4 @@
-# hoth2021
+# hoth2021 - Backend Code (Flask and SQL)
 UCLA Hack Off The Hill 2021 Hack - Clothes with Care App
 
 This branch contains code for the backend, which includes a Flask server and sqlite database. I set up a few endpoints for the home, search, and profile pages.
