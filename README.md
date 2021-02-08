@@ -14,6 +14,3 @@ Instead, let's assume our pre-generated user had favorited an entry of "white sn
 
 The model then runs on the entry of "white sneakers" and generates five recommendations based on this. The results of the model are sent to CSV and uploaded to AirTable. From there, I created a RESTFUL API that links the model's results to the  "You Might Also Like" tab in our Profile tab in the UI. 
 
-## A Brief Description of the React Code:
-
-In our prototyper, Framer, I implemented code using React Native that integrates our data components to the various scroll and search grids on our UI screen, using a RESTFUL API of our generated data made using Airtable. The code modifies the data components to facilitate integration.
