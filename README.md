@@ -1,4 +1,4 @@
-# hoth2021
-UCLA Hack Off The Hill 2021 Hack - Clothes with Care App
+# Front End - React, JavaScript, HTML/CSS
 
- Please access each of our separate branches to see the code and data used as part of our app.
+## Includes the React native code I compiled for the interactive Home and Search components of our app, as well as CSS and JSX React Components.
+
